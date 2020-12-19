@@ -2,4 +2,4 @@
 Welcome to Do Huu Dung's GitHub
 
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=Code&message=C/C++.&color=<COLOR>)
+![](https://img.shields.io/static/v1?label=Code&message=C/Cpp&color=<COLOR>)
