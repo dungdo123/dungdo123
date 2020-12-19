@@ -1,4 +1,4 @@
-# Jundo
+# DoDzung
 Welcome to Do Huu Dung's GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=important)
