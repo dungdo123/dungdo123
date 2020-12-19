@@ -1,2 +1,3 @@
 # dungdo
-I am a machine learning and computer vision engineer. 
+Welcome to Do Huu Dung's GitHub
+
