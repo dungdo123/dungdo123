@@ -8,3 +8,5 @@ Welcome to Do Huu Dung's GitHub <img src="https://raw.githubusercontent.com/Mart
 ![](https://img.shields.io/static/v1?label=Tools&message=Tensorflow&color=success)
 ![](https://img.shields.io/static/v1?label=Tools&message=Keras&color=success)
 ![](https://img.shields.io/static/v1?label=Tools&message=OpenVSLAM&color=success)
+
+![](https://img.shields.io/static/v1?label=Tools&message=OpenCV&color=success)
