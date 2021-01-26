@@ -12,4 +12,4 @@ Welcome to Do Huu Dung's GitHub <img src="https://raw.githubusercontent.com/Mart
 ![](https://img.shields.io/static/v1?label=Tools&message=OpenCV&color=success)
 ![](https://img.shields.io/static/v1?label=Editor&message=PyCharm&color=informational)
 ![](https://img.shields.io/static/v1?label=Editor&message=VisualStudio&color=informational)
-![](https://raw.github.com/dungdo123/Code_Interview/blob/main/Conference_Paper_%231/Data%20augmentation/dataset/input/backgrounds/1.jpg)
+![](https://github.com/dungdo123/Code_Interview/blob/main/Conference_Paper_%231/Data%20augmentation/dataset/input/backgrounds/1.jpg)
