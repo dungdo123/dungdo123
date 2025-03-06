@@ -1,5 +1,5 @@
-# DavidDo
-Welcome to DavidDo's GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# DzungDo
+Welcome to DzungDo's GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=important)
 ![](https://img.shields.io/static/v1?label=Code&message=C/Cpp&color=important)
